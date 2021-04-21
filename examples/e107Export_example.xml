@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<e107Export version="2.3.0 (git)" timestamp="1589653943" >
+	<database>
+	<dbTable name="masthead">
+		<item>
+			<field name="element_id">1</field>
+			<field name="element_preview">{e_PLUGIN}masthead/images/default_solid.jpg</field>
+			<field name="element_mode">solid</field>
+			
+			<field name="element_title">Solid example</field>
+			<field name="element_visibility">0</field>
+			
+			<field name="element_image">{e_PLUGIN}masthead/images/default_solid.jpg</field>
+			<field name="element_template">solid</field>
+			<field name="element_options">{
+    "fields": {
+        "masthead_heading": "Eyecatching Bootstrap Template.",
+        "masthead_subheading": "",
+        "masthead_subttitle": "",
+        "masthead_intro": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\r\nMore Lorem Ipsum added here too.",
+        "textarea_01": " ",
+        "image_01": "{e_PLUGIN}images\/browser.png"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="element_id">3</field>
+			<field name="element_preview">{e_PLUGIN}masthead/images/default_freelancer.jpg</field>
+			<field name="element_mode">freelancer</field>
+			
+			<field name="element_title">Freelancer version - small image and 2 texts</field>
+			<field name="element_visibility">0</field>
+			
+			<field name="element_image"></field>
+			<field name="element_template">freelancer</field>
+			<field name="element_options">{
+    "fields": {
+        "masthead_heading": "START BOOTSTRAP",
+        "masthead_subheading": "Graphic Artist - Web Designer - Illustrator",
+        "masthead_subttitle": "",
+        "masthead_intro": "",
+        "textarea_01": "",
+        "image_01": "{e_PLUGIN}images\/avataaars.svg"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="element_id">4</field>
+			<field name="element_preview">{e_PLUGIN}masthead/images/agency.jpg</field>
+			<field name="element_mode">agency2</field>
+			
+			<field name="element_title">Agency example</field>
+			<field name="element_visibility">0</field>
+			
+			<field name="element_image">{e_PLUGIN}masthead/images/default_solid.jpg</field>
+			<field name="element_template">freelancer</field>
+			<field name="element_options">{
+    "fields": {
+        "masthead_heading": "This is Heading  ",
+        "masthead_subheading": "This is SubHeading of this section",
+        "masthead_subttitle": "This is Subtitle of this section",
+        "masthead_intro": "This is textarea text. You can use shortcodes here. ",
+        "image_bg": "{e_PLUGIN}images\/header_bg.jpg",
+        "image_01": "{e_THEME}agency2\/images\/e107_adminlogo.png",
+        "button_text": "Button text",
+        "button_link": "#buttonlink"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="element_id">6</field>
+			<field name="element_preview">{e_PLUGIN}masthead/images/new_age.jpg</field>
+			<field name="element_mode">newage</field>
+			
+			<field name="element_title">Newage</field>
+			<field name="element_visibility">0</field>
+			
+			<field name="element_image">{e_PLUGIN}masthead/images/default_solid.jpg</field>
+			<field name="element_template">newage</field>
+			<field name="element_options">{
+    "fields": {
+        "masthead_heading": "Eyecatching Bootstrap Template.",
+        "text_02": "",
+        "text_03": "",
+        "textarea_01": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\r\nMore Lorem Ipsum added here too.",
+        "image_01": "{e_PLUGIN}images\/browser.png"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="element_id">7</field>
+			<field name="element_preview">{e_PLUGIN}masthead/images/stylish_portfolio.jpg</field>
+			<field name="element_mode">portfolio</field>
+			
+			<field name="element_title">Portfolio</field>
+			<field name="element_visibility">0</field>
+			
+			<field name="element_image"></field>
+			<field name="element_template">portfolio</field>
+			<field name="element_options">{
+    "fields": {
+        "masthead_heading": "START BOOTSTRAP",
+        "text_02": "Graphic Artist - Web Designer - Illustrator",
+        "text_03": "",
+        "textarea_01": "",
+        "image_01": "{e_PLUGIN}images\/avataaars.svg"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="element_id">8</field>
+			<field name="element_preview">{e_PLUGIN}masthead/images/agency_fullpage.jpg</field>
+			<field name="element_mode">agency</field>
+			
+			<field name="element_title">Agency Full Page with scroll down</field>
+			<field name="element_visibility">0</field>
+			
+			<field name="element_image">{e_PLUGIN}masthead/images/default_solid.jpg</field>
+			<field name="element_template">agency</field>
+			<field name="element_options">{
+    "fields": {
+        "masthead_heading": "Eyecatching Bootstrap Template.",
+        "text_02": "",
+        "text_03": "",
+        "textarea_01": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\r\nMore Lorem Ipsum added here too.",
+        "image_01": "{e_PLUGIN}images\/browser.png"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="element_id">9</field>
+			<field name="element_preview">{e_PLUGIN}masthead/images/agency_scroll.jpg</field>
+			<field name="element_mode">creative</field>
+			
+			<field name="element_title">Agency short with scroll button</field>
+			<field name="element_visibility">0</field>
+			
+			<field name="element_image"></field>
+			<field name="element_template">creative</field>
+			<field name="element_options">{
+    "fields": {
+        "masthead_heading": "START BOOTSTRAP",
+        "masthead_subheading": "",
+        "masthead_subttitle": "",
+        "masthead_intro": "",
+        "button_text": "",
+        "button_link": "",
+        "button_text_left": "",
+        "button_link_left": "",
+        "button_text_right": "",
+        "button_link_rigth": "",
+        "image_bg": "",                  
+        "image_01": "{e_PLUGIN}masthead/images\/avataaars.svg"
+    }
+}</field>
+		</item>
+	</dbTable>
+	</database>
+</e107Export>
