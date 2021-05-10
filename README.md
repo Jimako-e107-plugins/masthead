@@ -1,4 +1,4 @@
 # MASTHEAD plugin
 
-This plugin is attemp to replace missing functionality with core Welcome message. 
+This plugin is attemp how to replace missing functionality with core Welcome message. 
 
